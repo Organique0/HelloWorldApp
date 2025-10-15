@@ -1,4 +1,5 @@
-# Navodila (Windows)
+# Testna naloga za preizkus znanja (junior developer)
+## Navodila (Windows)
 Jaz sem uporabil:
 - NVM 1.2.2
     - iz: https://github.com/coreybutler/nvm-windows/releases
