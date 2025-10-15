@@ -1,0 +1,16 @@
+<div class="p-4">
+    <app-page-breadcrumb pageTitle="Hello World API" />
+    
+    @if (error) {
+        <div class="text-red-600 bg-red-100 p-3 rounded">
+            {{ error }}
+        </div>
+    }
+    
+    @if (data) {
+        <div class="bg-gray-100 p-4 rounded">
+            <h2 class="font-semibold mb-2">API Response:</h2>
+            <pre class="bg-white p-3 rounded border overflow-auto">{{ data | json }}</pre>
+        </div>
+    }
+</div>
