@@ -5,7 +5,7 @@ Jaz sem uporabil:
 - NODE 20.19.5
     - nameščen z ukazom "nvm install 20" in nato "nvm use 20"
 
-1. git clone ali prenos zip datoteke
+1. git clone ali prenos zip datoteke (zeleni gumb "code")
 2. terminal v mapi /backend:
     - npm install
     - npm start
